@@ -1,9 +1,9 @@
 name: SimpleAuth
 main: SimpleAuth\SimpleAuth
 version: 2.2.0
-api: [3.17.2]
+api: [3.17.0]
 load: STARTUP
-author: PocketMine Team
+author: Momentariy
 authors: [shoghicp]
 description: Prevents people from impersonating an account, requires registration and login when connecting.
 website: https://github.com/PocketMine/SimpleAuth
